@@ -4,4 +4,5 @@ YSAL (Yonsei Sports Analytics Lab)
 Team : Baseball (팀장)
 
 1st project : Predict Next Pitch using markov chain </br>
-2nd project : detect infielders using open cv & Yolo
+2nd project : detect infielders using open cv & Yolo (defensive shift)
+ 
