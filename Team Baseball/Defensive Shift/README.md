@@ -18,6 +18,10 @@ project2 기획, 파이프라인 제작 , ppt 제작, 발표 등 전과정에 �
   - open cv
   - Yolo
   - tensorflow 
+
+  <code>
+    - infielder cor.ipynb (파일 크기가 커 CRLF로 저장)
+    - shift classifier.ipynb
 </br></br>
   (자세한 내용은 ppt 참조)
 
